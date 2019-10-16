@@ -24,8 +24,10 @@ It was made to allow video games to be more easily programmed for these computer
 
 Drag the ROM file onto CHIP8Emulator.exe
 
-Note:Can also be run via the command prompt, but set the width and height in command prompt properties as 64,32.
+Note: Can also be run via the command prompt, but set the width and height in command prompt properties as 64,32.
 
 ```
 "CHIP8 Emulator.exe" TRON.ch8
 ```
+# References
+https://en.wikipedia.org/wiki/CHIP-8
