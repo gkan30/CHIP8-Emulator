@@ -13,7 +13,7 @@ It was made to allow video games to be more easily programmed for these computer
 
 *Pong*
 
-![Pong](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/Pong.PNG "Pong")
+![Pong](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/Pong.png "Pong")
 
 *Tron*
 
