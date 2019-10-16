@@ -7,6 +7,16 @@ It was made to allow video games to be more easily programmed for these computer
 
 # Examples
 
+*Space Invaders*
+
 ![Space Invaders](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/Invaders.PNG "Space Invaders")
 
-*Space Invaders*
+*Pong*
+
+![Pong](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/Pong.PNG "Pong")
+
+*Tron*
+
+![Tron](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/TRON.PNG "Tron")
+
+
