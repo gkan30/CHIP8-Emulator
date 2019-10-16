@@ -1,5 +1,6 @@
 # CHIP8-Emulator
 A Basic CHIP8 Emulator in C++
+
 Renders directly into Windows Console
 
 CHIP-8 is an interpreted programming language.It was initially used on the COSMAC VIP and Telmac 1800 8-bit microcomputers in the mid-1970s.
