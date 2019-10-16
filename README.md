@@ -5,7 +5,7 @@ Renders directly into windows console,no need for OpenGL for other dependencies
 CHIP-8 is an interpreted programming language.It was initially used on the COSMAC VIP and Telmac 1800 8-bit microcomputers in the mid-1970s.
 It was made to allow video games to be more easily programmed for these computers.
 
-##Examples
+# Examples
 
 *Space Invaders*
 
@@ -20,3 +20,12 @@ It was made to allow video games to be more easily programmed for these computer
 ![Tron](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/TRON.PNG "Tron")
 
 
+# Usage
+
+Drag the ROM file onto CHIP8Emulator.exe
+
+Note:Can also be run via the command prompt, but set the width and height in command prompt properties as 64,32.
+
+```
+"CHIP8 Emulator.exe" TRON.ch8
+```
