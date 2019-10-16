@@ -8,4 +8,4 @@ It was made to allow video games to be more easily programmed for these computer
 # Examples
 
 TRON
-![alt text](Screenshots/TRON.png)
+https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/TRON.PNG
