@@ -8,4 +8,5 @@ It was made to allow video games to be more easily programmed for these computer
 # Examples
 
 ![Space Invaders](https://github.com/gkan30/CHIP8-Emulator/blob/master/Screenshots/Invaders.PNG "Space Invaders")
+
 *Space Invaders*
